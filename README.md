@@ -7,8 +7,7 @@ This repository hosts a comparative study between Bipropagation and Backpropagat
 
 ## Technologies
 - Python 3.x
-- TensorFlow or PyTorch (whichever you plan to use)
-- NumPy
+- TensorFlow
 
 ## Setup
 1. Clone the repository:
